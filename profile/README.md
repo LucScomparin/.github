@@ -159,6 +159,7 @@
     <td align="center"><a href="https://github.com/yasminmartins18"><img style="border-radius: 50%;" src="https://github.com/yasminmartins18.png" width="60px;"/><br /><sub><b>Yasmin Martins</b></sub></a></td>
     <td align="center"><a href="https://github.com/alvaroholanda"><img style="border-radius: 50%;" src="https://github.com/alvaroholanda.png" width="60px;"/><br /><sub><b>Álvaro Holanda</b></sub></a></td>
     <td align="center"><a href="https://github.com/giovannidcas"><img style="border-radius: 50%;" src="https://github.com/giovannidcas.png" width="60px;"/><br /><sub><b>Giovanni</b></sub></a></td>
+    <td align="center"><a href="https://github.com/lyviaamorim569851"><img style="border-radius: 50%;" src="https://github.com/lyviaamorim569851.png" width="60px;"/><br /><sub><b>Lyvia Amorim</b></sub></a></td>
   </tr>
 </table>
 
