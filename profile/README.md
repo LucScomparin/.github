@@ -141,7 +141,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/lenahalawi07"><img style="border-radius: 50%;" src="https://github.com/lenahalawi07.png" width="60px;"/><br /><sub><b>Lena Halawi</b></sub></a></td>
-    <td align="center"><a href="https://github.com/luisfelipe-fernandesesteves"><img style="border-radius: 50%;" src="https://github.com/luisfelipe-fernandesesteves.png" width="60px;"/><br /><sub><b>Luis Fernandes</b></sub></a></td>
+    <td align="center"><a href="https://github.com/dev-luisfernandes"><img style="border-radius: 50%;" src="https://github.com/dev-luisfernandes.png" width="60px;"/><br /><sub><b>Luis Fernandes</b></sub></a></td>
     <td align="center"><a href="https://github.com/luishdev0"><img style="border-radius: 50%;" src="https://github.com/luishdev0.png" width="60px;"/><br /><sub><b>Luis H. Dev</b></sub></a></td>
     <td align="center"><a href="https://github.com/LuizHenriqueAAlbarello"><img style="border-radius: 50%;" src="https://github.com/LuizHenriqueAAlbarello.png" width="60px;"/><br /><sub><b>Luiz Albarello</b></sub></a></td>
     <td align="center"><a href="https://github.com/LuizVMaciel"><img style="border-radius: 50%;" src="https://github.com/LuizVMaciel.png" width="60px;"/><br /><sub><b>Luiz Eduardo</b></sub></a></td>
@@ -158,6 +158,7 @@
   <tr>
     <td align="center"><a href="https://github.com/yasminmartins18"><img style="border-radius: 50%;" src="https://github.com/yasminmartins18.png" width="60px;"/><br /><sub><b>Yasmin Martins</b></sub></a></td>
     <td align="center"><a href="https://github.com/alvaroholanda"><img style="border-radius: 50%;" src="https://github.com/alvaroholanda.png" width="60px;"/><br /><sub><b>Álvaro Holanda</b></sub></a></td>
+    <td align="center"><a href="https://github.com/giovannidcas"><img style="border-radius: 50%;" src="https://github.com/giovannidcas.png" width="60px;"/><br /><sub><b>Giovanni</b></sub></a></td>
   </tr>
 </table>
 
