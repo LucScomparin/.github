@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG93YzhleWptOGlteDJ0NTBvNnBuNTFsaHp0emZ6a3hrb2IzZWI5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K9bdJrL8fHG24/giphy.gif" />
+  <img height="300" src="./profile/ale-e-ariete%201.jpg"  />
 </div>
 
 <br>
