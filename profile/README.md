@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img height="300" src="./profile/ale-e-ariete%201.jpg"  />
+  <img height="300" src="./ale-e-ariete%201.jpg"  />
 </div>
 
 <br>
