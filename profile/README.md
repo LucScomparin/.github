@@ -117,49 +117,49 @@
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/alecarlosjesus"><img style="border-radius: 50%;" src="https://github.com/alecarlosjesus.png" width="60px;"/><br /><sub><b>Alexandre Carlos</b></sub></a></td>
+    <td align="center"><a href="https://github.com/alvaroholanda"><img style="border-radius: 50%;" src="https://github.com/alvaroholanda.png" width="60px;"/><br /><sub><b>Álvaro Holanda</b></sub></a></td>
     <td align="center"><a href="https://github.com/anapmagalhaess"><img style="border-radius: 50%;" src="https://github.com/anapmagalhaess.png" width="60px;"/><br /><sub><b>Ana Magalhães</b></sub></a></td>
     <td align="center"><a href="https://github.com/AndrewRls"><img style="border-radius: 50%;" src="https://github.com/AndrewRls.png" width="60px;"/><br /><sub><b>Andrew Rls</b></sub></a></td>
     <td align="center"><a href="https://github.com/arthurarrudaa"><img style="border-radius: 50%;" src="https://github.com/arthurarrudaa.png" width="60px;"/><br /><sub><b>Arthur Arruda</b></sub></a></td>
     <td align="center"><a href="https://github.com/BryanC0staDev"><img style="border-radius: 50%;" src="https://github.com/BryanC0staDev.png" width="60px;"/><br /><sub><b>Bryan Costa</b></sub></a></td>
-    <td align="center"><a href="https://github.com/dhiegobelmonte"><img style="border-radius: 50%;" src="https://github.com/dhiegobelmonte.png" width="60px;"/><br /><sub><b>Dhiego Belmonte</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/dhiegobelmonte"><img style="border-radius: 50%;" src="https://github.com/dhiegobelmonte.png" width="60px;"/><br /><sub><b>Dhiego Belmonte</b></sub></a></td>
     <td align="center"><a href="https://github.com/DioohReis"><img style="border-radius: 50%;" src="https://github.com/DioohReis.png" width="60px;"/><br /><sub><b>Diogo Reis</b></sub></a></td>
     <td align="center"><a href="https://github.com/enzoestanguera"><img style="border-radius: 50%;" src="https://github.com/enzoestanguera.png" width="60px;"/><br /><sub><b>Enzo Estanguera</b></sub></a></td>
     <td align="center"><a href="https://github.com/Erick488-maker"><img style="border-radius: 50%;" src="https://github.com/Erick488-maker.png" width="60px;"/><br /><sub><b>Erick Menezes</b></sub></a></td>
     <td align="center"><a href="https://github.com/gabrielrazod9j-ops"><img style="border-radius: 50%;" src="https://github.com/gabrielrazod9j-ops.png" width="60px;"/><br /><sub><b>Gabriel Razo</b></sub></a></td>
     <td align="center"><a href="https://github.com/gabriel-ricardo-ADS"><img style="border-radius: 50%;" src="https://github.com/gabriel-ricardo-ADS.png" width="60px;"/><br /><sub><b>Gabriel Ricardo</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Giovvane"><img style="border-radius: 50%;" src="https://github.com/Giovvane.png" width="60px;"/><br /><sub><b>Giovane</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Giovvane"><img style="border-radius: 50%;" src="https://github.com/Giovvane.png" width="60px;"/><br /><sub><b>Giovane</b></sub></a></td>
+    <td align="center"><a href="https://github.com/giovannidcas"><img style="border-radius: 50%;" src="https://github.com/giovannidcas.png" width="60px;"/><br /><sub><b>Giovanni</b></sub></a></td>
     <td align="center"><a href="https://github.com/guilhermemedina22"><img style="border-radius: 50%;" src="https://github.com/guilhermemedina22.png" width="60px;"/><br /><sub><b>Guilherme Medina</b></sub></a></td>
     <td align="center"><a href="https://github.com/GustavoJardimSa"><img style="border-radius: 50%;" src="https://github.com/GustavoJardimSa.png" width="60px;"/><br /><sub><b>Gustavo Jardim</b></sub></a></td>
     <td align="center"><a href="https://github.com/igorblacconaro"><img style="border-radius: 50%;" src="https://github.com/igorblacconaro.png" width="60px;"/><br /><sub><b>Igor Blacconaro</b></sub></a></td>
     <td align="center"><a href="https://github.com/jmgouveiaalmeida-afk"><img style="border-radius: 50%;" src="https://github.com/jmgouveiaalmeida-afk.png" width="60px;"/><br /><sub><b>J. Gouveia</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kauansilva1472"><img style="border-radius: 50%;" src="https://github.com/kauansilva1472.png" width="60px;"/><br /><sub><b>Kauã Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/lkoprowskif"><img style="border-radius: 50%;" src="https://github.com/lkoprowskif.png" width="60px;"/><br /><sub><b>Larissa K.</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/kauansilva1472"><img style="border-radius: 50%;" src="https://github.com/kauansilva1472.png" width="60px;"/><br /><sub><b>Kauã Silva</b></sub></a></td>
+    <td align="center"><a href="https://github.com/lkoprowskif"><img style="border-radius: 50%;" src="https://github.com/lkoprowskif.png" width="60px;"/><br /><sub><b>Larissa K.</b></sub></a></td>
     <td align="center"><a href="https://github.com/lenahalawi07"><img style="border-radius: 50%;" src="https://github.com/lenahalawi07.png" width="60px;"/><br /><sub><b>Lena Halawi</b></sub></a></td>
     <td align="center"><a href="https://github.com/dev-luisfernandes"><img style="border-radius: 50%;" src="https://github.com/dev-luisfernandes.png" width="60px;"/><br /><sub><b>Luis Fernandes</b></sub></a></td>
     <td align="center"><a href="https://github.com/luishdev0"><img style="border-radius: 50%;" src="https://github.com/luishdev0.png" width="60px;"/><br /><sub><b>Luis H. Dev</b></sub></a></td>
     <td align="center"><a href="https://github.com/LuizHenriqueAAlbarello"><img style="border-radius: 50%;" src="https://github.com/LuizHenriqueAAlbarello.png" width="60px;"/><br /><sub><b>Luiz Albarello</b></sub></a></td>
-    <td align="center"><a href="https://github.com/LuizVMaciel"><img style="border-radius: 50%;" src="https://github.com/LuizVMaciel.png" width="60px;"/><br /><sub><b>Luiz Eduardo</b></sub></a></td>
-    <td align="center"><a href="https://github.com/manuelalramos"><img style="border-radius: 50%;" src="https://github.com/manuelalramos.png" width="60px;"/><br /><sub><b>Manuela Ramos</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/LuizVMaciel"><img style="border-radius: 50%;" src="https://github.com/LuizVMaciel.png" width="60px;"/><br /><sub><b>Luiz Eduardo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/lyviaamorim569851"><img style="border-radius: 50%;" src="https://github.com/lyviaamorim569851.png" width="60px;"/><br /><sub><b>Lyvia Amorim</b></sub></a></td>
+    <td align="center"><a href="https://github.com/manuelalramos"><img style="border-radius: 50%;" src="https://github.com/manuelalramos.png" width="60px;"/><br /><sub><b>Manuela Ramos</b></sub></a></td>
     <td align="center"><a href="https://github.com/MariMari-Ramos"><img style="border-radius: 50%;" src="https://github.com/MariMari-Ramos.png" width="60px;"/><br /><sub><b>Mari Ramos</b></sub></a></td>
     <td align="center"><a href="https://github.com/ogmatheus7"><img style="border-radius: 50%;" src="https://github.com/ogmatheus7.png" width="60px;"/><br /><sub><b>Matheus OG</b></sub></a></td>
     <td align="center"><a href="https://github.com/MatheusRodriguesSerrao"><img style="border-radius: 50%;" src="https://github.com/MatheusRodriguesSerrao.png" width="60px;"/><br /><sub><b>Matheus Serrão</b></sub></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/pedrolimeisdev"><img style="border-radius: 50%;" src="https://github.com/pedrolimeisdev.png" width="60px;"/><br /><sub><b>Pedro Lima</b></sub></a></td>
     <td align="center"><a href="https://github.com/pivattidev"><img style="border-radius: 50%;" src="https://github.com/pivattidev.png" width="60px;"/><br /><sub><b>Pivatti</b></sub></a></td>
     <td align="center"><a href="https://github.com/rodrigo15511"><img style="border-radius: 50%;" src="https://github.com/rodrigo15511.png" width="60px;"/><br /><sub><b>Rodrigo</b></sub></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/yasminmartins18"><img style="border-radius: 50%;" src="https://github.com/yasminmartins18.png" width="60px;"/><br /><sub><b>Yasmin Martins</b></sub></a></td>
-    <td align="center"><a href="https://github.com/alvaroholanda"><img style="border-radius: 50%;" src="https://github.com/alvaroholanda.png" width="60px;"/><br /><sub><b>Álvaro Holanda</b></sub></a></td>
-    <td align="center"><a href="https://github.com/giovannidcas"><img style="border-radius: 50%;" src="https://github.com/giovannidcas.png" width="60px;"/><br /><sub><b>Giovanni</b></sub></a></td>
-    <td align="center"><a href="https://github.com/lyviaamorim569851"><img style="border-radius: 50%;" src="https://github.com/lyviaamorim569851.png" width="60px;"/><br /><sub><b>Lyvia Amorim</b></sub></a></td>
   </tr>
 </table>
 
