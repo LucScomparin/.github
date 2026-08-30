@@ -24,6 +24,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="52" alt="Vite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="52" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="52" alt="Tailwind logo" />
 </div>
 
 <br>
